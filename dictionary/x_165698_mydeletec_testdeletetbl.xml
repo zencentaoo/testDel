@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="cmdb_ci_appl" label="TestDeleteTbl" max_length="40" name="x_165698_mydeletec_testdeletetbl" type="collection">
-        <element label="TEST DELETE ZCT" max_length="100" name="test_delete_zct" type="string"/>
-    </element>
+    <element extends="cmdb_ci_appl" label="TestDeleteTbl" max_length="40" name="x_165698_mydeletec_testdeletetbl" type="collection"/>
 </database>
