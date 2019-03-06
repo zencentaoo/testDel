@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="asset" label="Asset" language="en" table="x_165698_mydeletec_testdeletetbl">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>asset</element>
+            <help/>
+            <hint/>
+            <label>Asset</label>
+            <language>en</language>
+            <name>x_165698_mydeletec_testdeletetbl</name>
+            <plural>Assets</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-06 05:50:44</sys_created_on>
+            <sys_id>878be6c1db003300146917803996197e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Asset</sys_name>
+            <sys_package display_value="myDeleteColumn" source="x_165698_mydeletec">e02b6e81db00330014691780399619a5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="myDeleteColumn">e02b6e81db00330014691780399619a5</sys_scope>
+            <sys_update_name>sys_documentation_x_165698_mydeletec_testdeletetbl_asset_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-06 05:50:44</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

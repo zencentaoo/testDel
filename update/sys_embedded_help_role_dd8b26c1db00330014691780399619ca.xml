@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_165698_mydeletec.testdeletetbl_user" name="x_165698_mydeletec.testdeletetbl_user">518b26c1db00330014691780399619c9</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-06 05:50:37</sys_created_on>
+        <sys_id>dd8b26c1db00330014691780399619ca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>518b26c1db00330014691780399619c9</sys_name>
+        <sys_package display_value="myDeleteColumn" source="x_165698_mydeletec">e02b6e81db00330014691780399619a5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="myDeleteColumn">e02b6e81db00330014691780399619a5</sys_scope>
+        <sys_update_name>sys_embedded_help_role_dd8b26c1db00330014691780399619ca</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-06 05:50:37</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

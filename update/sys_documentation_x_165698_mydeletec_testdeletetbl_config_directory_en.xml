@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="config_directory" label="Configuration directory" language="en" table="x_165698_mydeletec_testdeletetbl">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>config_directory</element>
+            <help/>
+            <hint/>
+            <label>Configuration directory</label>
+            <language>en</language>
+            <name>x_165698_mydeletec_testdeletetbl</name>
+            <plural>Configuration directories</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-06 05:50:45</sys_created_on>
+            <sys_id>9f8be6c1db00330014691780399619ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Configuration directory</sys_name>
+            <sys_package display_value="myDeleteColumn" source="x_165698_mydeletec">e02b6e81db00330014691780399619a5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="myDeleteColumn">e02b6e81db00330014691780399619a5</sys_scope>
+            <sys_update_name>sys_documentation_x_165698_mydeletec_testdeletetbl_config_directory_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-06 05:50:45</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

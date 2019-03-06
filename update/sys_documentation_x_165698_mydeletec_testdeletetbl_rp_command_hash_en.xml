@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="rp_command_hash" label="Running process command hash" language="en" table="x_165698_mydeletec_testdeletetbl">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>rp_command_hash</element>
+            <help/>
+            <hint/>
+            <label>Running process command hash</label>
+            <language>en</language>
+            <name>x_165698_mydeletec_testdeletetbl</name>
+            <plural>Running process command hashes</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-06 05:50:41</sys_created_on>
+            <sys_id>ae8be6c1db003300146917803996194e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Running process command hash</sys_name>
+            <sys_package display_value="myDeleteColumn" source="x_165698_mydeletec">e02b6e81db00330014691780399619a5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="myDeleteColumn">e02b6e81db00330014691780399619a5</sys_scope>
+            <sys_update_name>sys_documentation_x_165698_mydeletec_testdeletetbl_rp_command_hash_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-06 05:50:41</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
